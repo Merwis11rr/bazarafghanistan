@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Clear Sans
+Author: Intel
+Url: http://www.fontsquirrel.com/fonts/clear-sans
+
+Font: Ubuntu
+Author: Dalton Maag Ltd
+Url: http://www.fontsquirrel.com/fonts/ubuntu
